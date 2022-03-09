@@ -1,0 +1,18 @@
+# Mapty
+    - It is a project to make schedule of running and cycling set in the Mapty
+
+
+# Featured coming soon...
+    - Edit a workout
+    - Delete a workout
+    - delete all workouts
+    - sort workout by a certiain field (e.g distance)
+    - Re-build Running  and Cycling objects coming from  Local storage
+    - releastic error and confirmation messages
+    - 
+    - Ability to position the map to show all workouts
+    - Ability to draw lines and shapes instead of just points
+    - 
+    - Geocode location from coordination("Run in faro,portugal")async
+    - display weather data for workout time and place (async)
+    
